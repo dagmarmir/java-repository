@@ -1,2 +1,2 @@
 # java-repository
-To upload Java projects.
+To upload Java projects, such as web applications.
