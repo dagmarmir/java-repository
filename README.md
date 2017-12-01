@@ -1,2 +1,1 @@
-# java-repository
-To upload Java projects, such as web applications.
+GoogleForADay is a Maven project implemented using Hibernate, Spring and PrimeFaces from JSF, the database is from PostgreSQL.
